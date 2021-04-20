@@ -1,0 +1,21 @@
+class Form{
+    constructor(){}
+
+    display(){
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    }
+}
