@@ -7,15 +7,11 @@ class Form{
 
 
 
-
-
-
-
-
-
-
-
-
-        
+        button.mousePressed(function(){
+            
+            
+            
+            
+        });        
     }
 }
